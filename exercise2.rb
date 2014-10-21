@@ -18,3 +18,10 @@ x=45628
 y=7839
 
 puts "the result of multiplying 45628 and 7839 returns #{x*y}"
+
+#exercise 2, part 4
+
+puts (true && false)||(false && true)||(false && false)
+
+#I predict this will return false
+
